@@ -1,0 +1,9 @@
+# installation
+1. npm install
+2. npm run dev
+
+# trying the web app
+1. search from list and select the city from the dropdown selection
+2. for the city not in the dropdown list, type the city in the field and click on the search button
+3. display selected city current weather and also 5 days forecast weather
+4. add the selected city to watchlist
