@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "toastr": "^2.1.4",
+    "v-select2-component": "^0.4.7",
+    "vue-select": "^3.11.2",
+    "vue-select2": "^0.2.6",
+    "vue-simple-suggest": "^1.11.1",
+    "vue-toasted": "^1.1.28"
+  },
+  "devDependencies": {}
+}
