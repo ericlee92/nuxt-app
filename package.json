@@ -16,6 +16,7 @@
     "nuxt": "^2.15.7",
     "toastr": "^2.1.4",
     "v-select2-component": "^0.4.7",
+    "vue-geolocation-api": "^0.1.21",
     "vue-select": "^3.11.2",
     "vue-select2": "^0.2.6",
     "vue-simple-suggest": "^1.11.1",
